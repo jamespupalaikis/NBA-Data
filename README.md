@@ -1,2 +1,2 @@
 # NBA-Data
- Series of projects using NBA stats scraped from basketballreference.com
+A series of projects using NBA stats scraped from basketballreference.com. Find here the methods used to scrape basketball season and player statistics, as well as the csv files containing said data. I often use this data for experimental, exploratory, and educational projects, as it is a dataset I am familiar with, within a context that I understand well. It can have some problems applying deep learning and regression methods sometimes, as the data can be somewhat sparse along some features. 
